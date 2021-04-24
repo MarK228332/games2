@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_0L3BmmRlzBHfdxxdaoUQ3BlPsZKTHpz6eg&usqp=CAU"height="80px"width="80px">
+        <a href="#1">CS:GO</a>
+        <a href="#2">PUBG</a>
+        <a href="#3">RDR 2</a>
+    </head>
+    <h1><font face="Verdana">Сайт отзывов игр</font></h1>
+    <h2><font face="Verdana">Реальные отзывы</font></h2>
+    <body style="background-color:lightblue">
+        <header>
+            <h1 id="1"><font face="Verdana">CS:GO</font></h1>
+            <p><font face="Verdana">Игра прикольная, интересные режимы и карты. Но читеров тьма тьмущая.</font></p>
+            <img src="https://www.progamer.ru/uploads/2011/11/cs-go-logo-1280x720.jpg"width="150px"height="100px">
+        </header>
+        <main>
+            <h1 id="2"><font face="Verdana">PUBG</font></h1>
+            <p><font face="Verdana">Много режимов, мне нравиться, отзывчивое комьнити.</font></p>
+            <img src="https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/pubg_game_660_141020121948.jpg"height="100px"weight="120px">
+        </main>
+        <footer>
+            <h1 id="3"><font face="Verdana">RDR 2</font></h1>
+            <p><font face="Verdana">Игра хорошая, открытый мир, но багов очень много.</font></p>
+            <img src="https://the-flow.ru/uploads/images/resize/830x0/adaptiveResize/01/11/51/57/62/2a1663e40cd7.jpg"height="100px"weight="140px">
+            <table style="border:1px solid grey">
+                <tr>
+                    <td><font face="Verdana">Игры</font></td>
+                    <td><font face="Verdana">PUBG</font></td>
+                    <td><font face="Verdana">RDR 2</font></td>
+                    <td><font face="Verdana">CS:GO</font></td>
+                </tr>
+                <tr>
+                    <td><font face="Verdana">Графика</font></td>
+                    <td><font face="Verdana">Хуже</font></td>
+                    <td><font face="Verdana">Лучше</font></td>
+                    <td><font face="Verdana">Средне</font></td>
+                </tr>
+                <tr>
+                    <td><font face="Verdana">Геймплей</font></td>
+                    <td><font face="Verdana">Средне</font></td>
+                    <td><font face="Verdana">Лучше</font></td>
+                    <td><font face="Verdana">Хуже</font></td>
+                </tr>
+                <tr>
+                    <td><font face="Verdana">Онлайн</font></td>
+                    <td><font face="Verdana">Есть</font></td>
+                    <td><font face="Verdana">Есть</font></td>
+                    <td><font face="Verdana">Есть</font></td>
+                </tr>
+            </table>
+            <p><font face="Verdana">По поводу некоректной инофрмации обращаться сюда: igromania228325@yandex.ru</font></p>
+        </footer>
+    </body>
+</html>
